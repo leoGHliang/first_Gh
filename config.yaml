@@ -1,0 +1,27 @@
+baseURL: "https://github.com/leoGHliang/leoGHliang.github.io"
+languageCode: "zh-cn"
+title: "LEO的个人网站"
+theme: "hugo-theme-stack"
+
+params:
+  subtitle: "记录学习与成长"
+  description: "这里是John的个人博客，分享编程心得和生活感悟"
+  keywords: ["编程", "学习", "个人成长"]
+  featuredImage:
+    enabled: true
+    fallbackImage: "/images/featured.jpg"
+
+menu:
+  main:
+    - identifier: "home"
+      name: "首页"
+      url: "/"
+      weight: 1
+    - identifier: "posts"
+      name: "文章"
+      url: "/posts"
+      weight: 2
+    - identifier: "about"
+      name: "关于"
+      url: "/about"
+      weight: 3

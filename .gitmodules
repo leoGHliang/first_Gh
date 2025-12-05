@@ -1,3 +1,6 @@
 [submodule "themes/first_GH"]
 	path = themes/first_GH
 	url = https://github.com/leoGHliang/first_GH
+[submodule "themes/hugo-theme-stack"]
+	path = themes/hugo-theme-stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack.git
