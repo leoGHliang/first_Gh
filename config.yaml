@@ -1,4 +1,4 @@
-baseURL: "https://github.com/leoGHliang/leoGHliang.github.io"
+baseURL: "https://github.com/leoGHliang/"
 languageCode: "zh-cn"
 title: "LEO的个人网站"
 theme: "hugo-theme-stack"
